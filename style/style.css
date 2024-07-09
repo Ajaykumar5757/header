@@ -18,5 +18,13 @@ nav ul li{
     list-style-type: none;
     display: inline;
     padding-right: 80px;
-    color:white;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: black;
 }
